@@ -1,0 +1,1 @@
+Simple javascript function that on click, converts a SVG element to a Canvas which in turn is converted to a downloadable PNG.
